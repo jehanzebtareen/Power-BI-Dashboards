@@ -1,0 +1,3 @@
+These files are part of a Coursera Guided Project - Getting started with Power BI Desktop.
+
+Data and Insights of Credit Card Defaulters.
