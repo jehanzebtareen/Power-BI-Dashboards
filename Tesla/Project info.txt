@@ -1,0 +1,3 @@
+Interactive Dashboard for Electric Vehicle Maker "Tesla". 
+
+Data from Kaggle.
