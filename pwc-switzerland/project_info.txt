@@ -1,0 +1,1 @@
+Power BI project of customer retention, PWC Switzerland. Calls Data Analysis imitating a real life situation. Offered by Forage.
